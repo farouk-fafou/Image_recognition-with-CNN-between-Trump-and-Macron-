@@ -1,4 +1,4 @@
-# Tp_ia_1
+# ia
 
 image recognition Between Donald Trump and Emanuel Macron
 
